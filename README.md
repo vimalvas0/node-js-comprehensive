@@ -1,6 +1,6 @@
 ![Banner](assets/banner.jpg)
 
-# node-js-deep-dive
+# node-js-comprehensive
 
 Welcome to my in-depth Node.js learning repository! 🚀 Here, you'll find a comprehensive collection of notes, code samples, projects, and resources as I dive deep into the world of Node.js. Whether you're a beginner looking to start your Node.js journey or an experienced developer seeking advanced insights, this repository has something for everyone.
 
